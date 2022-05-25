@@ -1,0 +1,36 @@
+{
+  "razas": [
+    {
+      "id": 1,
+      "nombre": "Bengala"
+    },
+    {
+      "id": 2,
+      "nombre": "Siamés"
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "titulo": "características de la raza",
+      "raza": 1
+    },
+    {
+      "id": 2,
+      "titulo": "características de la raza",
+      "raza": 2
+    }
+  ],
+  "comentarios": [
+    {
+      "id": 1,
+      "mensaje": "¡Hay muchos tipos de gatitos en el mundo!",
+      "postId": 2
+    },
+    {
+      "id": 2,
+      "mensaje": "¡Hay dos tipos de razas de siameses!",
+      "postId": 2
+    }
+  ]
+}
